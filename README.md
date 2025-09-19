@@ -17,16 +17,6 @@ Jump over cacti. Duck under pterodactyls. Collect fossils. Outrun boredom.
 **Your mission?** Survive longer than your browser history.
 
 
-
-## 🏆 HIGH SCORES
-
-```
-1. T-REX LOVER     —  9,876 pts  🦖👑
-2. CAFFEINATED CODER —  5,432 pts  ☕
-3. MOM             —    847 pts  👩‍👧
-4. YOUR NAME HERE  —    ??? pts  ▓▓▓▓▓▓▓▓▓▓
-```
-
 ---
 
 ## 🛠️ INSTALL & RUN
